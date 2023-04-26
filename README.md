@@ -10,3 +10,4 @@ An End-to-End Encrypted File sharing application.
 
 ## Made By
 - Bhallamudi Sai Narasimha Abhiram ([@abhirambsn](https://github.com/abhirambsn))
+- Harikesh Pratap Singh
